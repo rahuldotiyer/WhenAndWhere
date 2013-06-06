@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/33/branches/wp-content/plugins/wp-user-frontend/admin
+END
+settings-options.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/33/branches/wp-content/plugins/wp-user-frontend/admin/settings-options.php
+END
+custom-fields.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/33/branches/wp-content/plugins/wp-user-frontend/admin/custom-fields.php
+END
+taxonomy.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/33/branches/wp-content/plugins/wp-user-frontend/admin/taxonomy.php
+END
+settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/33/branches/wp-content/plugins/wp-user-frontend/admin/settings.php
+END
+subscription.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/33/branches/wp-content/plugins/wp-user-frontend/admin/subscription.php
+END
+transaction.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/33/branches/wp-content/plugins/wp-user-frontend/admin/transaction.php
+END
+form-builder.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/33/branches/wp-content/plugins/wp-user-frontend/admin/form-builder.php
+END
